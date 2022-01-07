@@ -1,0 +1,7 @@
+*.d
+*.o
+*.o.*
+*.si4project/
+rtsp_arm
+rtsp_server_arm
+
